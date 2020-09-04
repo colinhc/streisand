@@ -42,7 +42,7 @@ linode_datacenter: "7"
 linode_server_name: streisand
 
 # Obtain the API key from the Linode Manager console.
-linode_api_key: ""
+linode_api_token: ""
 
 # Definitions needed for Let's Encrypt HTTPS (or TLS) certificate setup.
 #
